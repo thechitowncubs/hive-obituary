@@ -8,7 +8,7 @@ const MongoClient = require('mongodb').MongoClient;
 const assert = require('assert');
  
 // Connection URL
-const url = 'mongodb://john_admin:johnRul3s@165.22.36.39:27017';
+const url = 'mongodb://@165.22.36.39:27017';
  
 // Database Name
 const dbName = 'hive';
